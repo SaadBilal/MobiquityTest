@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/MobiquityProducts.iml" filepath="$PROJECT_DIR$/MobiquityProducts.iml" group="MobiquityProducts" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" group="MobiquityProducts/app" />
+      <module fileurl="file://$PROJECT_DIR$/app/mobiquity-app.iml" filepath="$PROJECT_DIR$/app/mobiquity-app.iml" group="MobiquityProducts/app" />
     </modules>
   </component>
 </project>
