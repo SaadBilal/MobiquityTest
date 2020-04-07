@@ -7,10 +7,6 @@ import com.google.gson.Gson;
 
 import java.security.PrivateKey;
 
-/**
- * Created for AER Android App by Infiniun Healthcare.
- */
-
 public class SharedPrefsHelper {
 
     public static final String PREF_KEY_NAME = "syne_shared_pref_name";
